@@ -1,0 +1,10 @@
+**/node_modules/*
+**/out/*
+**/.next/*
+**/.husky/*
+**/.vscode/*
+**/public/*
+package.json
+*.config.js
+.eslintrc.js
+renovate.json
